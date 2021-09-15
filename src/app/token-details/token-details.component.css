@@ -1,0 +1,21 @@
+.container{
+    width: 550px;
+}
+.token{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.symbol{
+margin-top: 25px;
+}
+.decimals{
+ margin-top: 25px;
+
+} 
+.btn-primary{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 450px;
+    margin-top: 50px;
+
+}
