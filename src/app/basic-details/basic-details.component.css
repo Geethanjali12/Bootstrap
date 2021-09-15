@@ -4,6 +4,7 @@
 .basic{
     margin-top: 30px;
     margin-bottom: 40px;
+    color: #3F9CFC;
 }
 .btn-primary{
     padding-left: 20px;
@@ -15,4 +16,7 @@
 
 .form-label1{
     margin-top: 20px;
+}
+.form-label{
+    color: #fff;
 }
